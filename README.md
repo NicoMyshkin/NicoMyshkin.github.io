@@ -1,4 +1,4 @@
-# Hello, my name is Nico
+# Hello, my name is Nico 👋
 
 ### I paint the full picture through analytics
 
